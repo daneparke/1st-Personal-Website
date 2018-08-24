@@ -1,0 +1,49 @@
+body{
+    background:turquoise;
+    font-size:20px
+    }
+    p{
+      font-size:30px;
+      text-align: center;
+       
+    }
+    li{
+      font-size:20px;
+    }
+  .myfirstclass{
+   background:red;
+    
+  }
+  .myfirstclass{
+    margin:auto;
+    text-align:center;
+  }
+  #mysecond{
+    background:blue;
+    width:8.13%
+  }
+  .mythird{
+    margin:auto;
+    width: 60%;
+    border: 10px dashed purple;
+    padding: 30px;
+    font-size:22px;
+    text-align: center;
+  }
+  .my4th{
+    margin:auto;
+    text-align:right;
+  
+   
+  }
+
+  #image{
+      height:800px;
+      width:auto;
+
+  }
+
+  #button{
+      margin:auto;
+      align-self:center;
+  }
